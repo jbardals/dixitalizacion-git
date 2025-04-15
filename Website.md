@@ -1,4 +1,4 @@
-## 1. Creación de sitios web en GitHub
+## Creación de sitios web en GitHub
 
 GitHub es un servicio muy interesante porque ofrece alojamiento gratuito para sitios estáticos. Tenemos a nuestra disposición varias opciones para publicar documentación:
 
