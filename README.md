@@ -14,6 +14,7 @@ Se puede crear un sitio web asociado a cualquier repositorio. Algunos ejemplos d
 Para crear el sitio web seguir los siguientes pasos:
 - Crear repositorio
 - Crear sitio
+  
   tal y como se indica en la url https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site
 
 ## Entrega
