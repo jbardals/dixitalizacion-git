@@ -11,11 +11,11 @@ GitHub es una plataforma en la nube donde puedes almacenar, compartir y colabora
 
 GitHub ofrece funcionalidades muy interesantes para trabajar con prácticas relacionadas con código o archivos de texto. Comparado con la gestión tradicional de tareas (creación de un fichero comprimido y subida de dicho fichero a una plataforma de tipo Moodle o entrega por correo) tenemos las siguientes ventajas:
 
-    Posibilidad de ver el código en el explorador web sin necesidad de descargarlo
-    Podemos crear conversaciones para realizar comentarios sobre la tarea
-    Posibilidad de hacer comentarios directamente sobre el código, haciendo referencia a líneas concretas, otros comentarios, commits, archivos, etc.
-    Opción de realizar tests automáticos para corrección de tareas o autoevaluación del alumnado
-    Colaboración entre distintas personas para tareas en grupo. Visibilización de las aportaciones de cada persona al trabajo común.
+- Posibilidad de ver el código en el explorador web sin necesidad de descargarlo
+- Podemos crear conversaciones para realizar comentarios sobre la tarea
+- Posibilidad de hacer comentarios directamente sobre el código, haciendo referencia a líneas concretas, otros comentarios, commits, archivos, etc.
+- Opción de realizar tests automáticos para corrección de tareas o autoevaluación del alumnado
+- Colaboración entre distintas personas para tareas en grupo. Visibilización de las aportaciones de cada persona al trabajo común.
 
 
 ## Entrega
