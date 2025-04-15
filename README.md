@@ -1,5 +1,7 @@
 # dixitalizacion-git
 
+GitHub es una plataforma en la nube donde puedes almacenar, compartir y colaborar con otros para escribir código. Almacenar tu código en un repositorio de GitHub te permite: mostrar o compartir tu trabajo, y hacer seguimiento y gestionar los cambios en tu código a lo largo del tiempo.
+
 ## 1. Creación de sitios web en GitHub
 
 GitHub es un servicio muy interesante porque ofrece alojamiento gratuito para sitios estáticos. Tenemos a nuestra disposición varias opciones para publicar documentación:
