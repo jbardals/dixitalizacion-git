@@ -28,5 +28,8 @@ Para crear el sitio web seguir los siguientes pasos,
   
 ![](imgs/deploy_github-pages.png)
 
+Incluye un fichero index.html con tu nombre y tus apellidos. Comprueba que puedes acceder vía web al sitio publicado.
+
 ## Entrega
+
 crearse el fork del mio, añadir un fichero url_GithubPages y hacer push
