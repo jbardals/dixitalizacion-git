@@ -22,10 +22,9 @@ Tareas
 2 - Trabajo con repositorios, issues, forks y pull requests
 Haz un fork del repositorio localizado en la siguiente url: https://github.com/curso-github-cefire/sesion3-practica. A partir de este momento todas las tareas que se indican se deben realizar en tu repositorio (el que has clonado mediante el fork).
 
-- Crea un fichero url_WebsiteGitHub , edítalo y pega la url de tu repo de Github
-- Realiza una pull request indicando en el mensaje que has completado la tarea. Realiza una pull request indicando en el mensaje que has completado la tarea junto con:
+- Crea un fichero url_WebsiteGitHub , edítalo y pega la url de tu repo de Github  v Un enlace a tu sitio web publicado.
+- Realiza una pull request indicando en el mensaje que has completado la tarea. 
 
-    Un enlace a tu sitio web publicado.
 
 ## Entrega
 
