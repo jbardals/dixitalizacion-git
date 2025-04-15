@@ -24,7 +24,7 @@ Para crear el sitio web seguir los siguientes pasos,
 - 
 - Crear sitio -> vamos a publicar desde una rama. Sigue los pasos del aptdo Publicacion desde una rama en https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch
   
-!(/imgs/deploy_github-pages.png)
+!(imgs/deploy_github-pages.png)
 
 ## Entrega
 crearse el fork del mio, añadir un fichero url_GithubPages y hacer push
