@@ -23,6 +23,7 @@ Para crear el sitio web seguir los siguientes pasos,
 - Crear repositorio -> tal y como se indica en el aptdo Crear un repositorio en la url https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site:
 - Crear sitio -> vamos a publicar desde una rama. Sigue los pasos del aptdo Publicacion desde una rama en https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch
   En la pagina principal del repositorio, busca abajo a la derecha la sección Deployments y pulsa en github-pages.
+  
 ![](imgs/deploy_github-pages.png)
 
 ## Entrega
