@@ -24,7 +24,7 @@ Para crear el sitio web seguir los siguientes pasos,
 - Crear sitio -> vamos a publicar desde una rama. Sigue los pasos del aptdo Publicacion desde una rama en https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch
   
   En la pagina principal del repositorio, busca abajo a la derecha la sección Deployments y pulsa en github-pages.
-  https://MINOMBREDEUSUARIO.github.io/nombrerepositorio.
+  https://TUNOMBREDEUSUARIO.github.io/nombrerepositorio.
   
 ![](imgs/deploy_github-pages.png)
 
