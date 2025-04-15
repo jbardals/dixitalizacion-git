@@ -2,7 +2,7 @@
 
 GitHub es una plataforma en la nube donde puedes almacenar, compartir y colaborar con otros para escribir código. Almacenar tu código en un repositorio de GitHub te permite: mostrar o compartir tu trabajo, y hacer seguimiento y gestionar los cambios en tu código a lo largo del tiempo.
 
-Website.md
+![](Website.md)
 
 ## 1. Creación de sitios web en GitHub
 
