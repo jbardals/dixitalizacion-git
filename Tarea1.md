@@ -1,6 +1,6 @@
 # Tarea 1: flujo de trabajo de solicitud de cambios de GitHub.
 
-Guión:
+Parte 1:
 - Crea un repositorio "soy_TUNOMBRE" que tenga un fichero README. El repositorio será público.
 - Crea una rama nueva de nombre  "contenido-web". Cámbiate a esa rama y crea un fichero index.html.
 - Edita ese fichero y copia en él el siguiente contenido:
@@ -11,6 +11,8 @@ Guión:
 ```
 - Confirma los cambios en el fichero. Comprueba que estos cambios sólo afectan a la rama "contenido-web" pero no a a principal.
 - Ahora vamos a crear en el repositorio un [servidor web estático](Website.md)
+
+Parte 2:
 - Harás cambios a un archivo y los subirás a GitHub como confirmaciones.
     Abre y fusiona una solicitud de cambios.
 
