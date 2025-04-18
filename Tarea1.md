@@ -13,6 +13,10 @@
 - Ahora vamos a crear en el repositorio un [servidor web estático](Website.md)
 
 ## Parte 2:
+Vamos a fusionar los cambios en la rama webb respecto a la rama principal (fichero index.html). Para ello:
+- Cambiar a la rama webb.
+- Pulsamos el botón Contribute y seleccionamos la opción Compare para ver las diferencias con la otra rama.
+- Pulsamoa creata pull request para lanzar la solicitud e cambios.
 - Harás cambios a un archivo y los subirás a GitHub como confirmaciones.
     Abre y fusiona una solicitud de cambios.
 
