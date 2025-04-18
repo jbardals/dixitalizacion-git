@@ -3,8 +3,7 @@
 ## Parte 1:
 - Crea un repositorio "soy_TUNOMBRE" que tenga un fichero README. El repositorio será público. Para crear un repositorio, seguir los pasos indicados en la url https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site:
 - Crea una rama nueva de nombre  "contenido-web". Sigue los pasos del aptdo Publicacion desde una rama en https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch
-- Cámbiate a esa rama y crea un fichero index.html.
-- Edita ese fichero y copia en él el siguiente contenido:
+- Cámbiate a esa rama y crea un fichero index.html con el siguiente contenido:
 ```
 <div class="text_to_html">Ola Susana<br /> <br /> ¿Dache o problema tanto ao arrastrar o ficheiro ao rectángulo punteado como premendo no botón de "Haga clic para subir archivos" e seleccionando o arquivo no explorador?</div>
 <div class="text_to_html">Se queres podo subir o csv a unha folla de cálculo de Google Sheets, compártocha e cargas os datos dende esa folla de cálculo, a ver se así vai...<br /> <br /> Un saúdo</div>
