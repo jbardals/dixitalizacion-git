@@ -9,6 +9,10 @@ Guión:
 <div class="text_to_html">Se queres podo subir o csv a unha folla de cálculo de Google Sheets, compártocha e cargas os datos dende esa folla de cálculo, a ver se así vai...<br /> <br /> Un saúdo</div>
 <p><span class="edited">(Editado por <a href="https://platega.edu.xunta.gal/user/view.php?id=4383&amp;course=3285">José Miguel Bardal Sanmiguel</a> - entrega orixinal martes, 15 de abril de 2025, 10:44 AM)</span></p>
   ```
+  ```
+let message = 'Hello world';
+alert(message);
+```
 -
 - .... y confirma los cambios. Comprueba que estos cambios sólo afectan a la rama "contenido-web" pero no a a principal
 - Harás cambios a un archivo y los subirás a GitHub como confirmaciones.
