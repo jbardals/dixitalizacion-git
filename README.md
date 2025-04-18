@@ -17,6 +17,11 @@ El flujo de Github
 
 Github permite mantener de forma simultánea varias versiones del contenido de un repositorio, que son cocnocidas como ramas. Cada repositorio se crea por defecto con la rama main o principal, que tendría el contenido definitivo. Para poder probar cambios (añadir o modificar contenidos) antes de hacerlos "definitivos", podemos crear una nueva rama del repositorio a partir de la rama principal. Esa nueva rama tendrá una copia de los contenidos de la rama principal. En esa nueva rama podemos implementar y probar los cambios que queramos sin afectar al contenido de la rama principal. Cuando estemos seguros de que los cambios en la nueva rama están correctos, confirmaremos los cambios en la nueva rama y solicitaremos entonces la incorporación de esos cambios en la rama principal, que pasarán así a ser "definitivos".
 
+En GitHub, los cambios guardados dentro de una rama se llaman confirmaciones o commits. Cada uno tiene un mensaje de confirmación asociado, que sirve para describir el motivo del cambio. Los mensajes de confirmación capturan la historia de tus cambios que sirven para que otros usuarios puedan entender lo que hiciste y por qué (o a ti mismo para recordarlo).
+
+Para que los cambios confirmados en una rama se puedan incorporar o fusionar con otra rama, hay que abrir una solicitud de cambio. Cuando abres una solicitud de cambios, estás proponiendo tus cambios y solicitando que alguien revise e integre tu contribución y la fusione en su rama
+En nuestro ejemplo, la solicitud de cambio se envía desde la nueva rama a la rama principal y serás tú quien tenga que confirmar la solicitud por ser dos ramans de tu repositorio.
+
 Tarea 0 -> crear un cuenta de Github, usar cuenta de google o crear una cuenta de google para github. poner el usuario que quieras, una cuenta real y la contraseña que quieras.
 
 Tarea 1: flujo de trabajo de solicitud de cambios de GitHub. https://docs.github.com/es/get-started/start-your-journey/hello-world
