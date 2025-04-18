@@ -2,6 +2,15 @@
 
 GitHub es una plataforma en la nube donde puedes almacenar, compartir y colaborar con otros para escribir código. Almacenar tu código en un repositorio de GitHub te permite: mostrar o compartir tu trabajo, y hacer seguimiento y gestionar los cambios en tu código a lo largo del tiempo.
 
+GitHub ofrece funcionalidades muy interesantes para trabajar con prácticas relacionadas con código o archivos de texto. Comparado con la gestión tradicional de tareas (creación de un fichero comprimido y subida de dicho fichero a una plataforma de tipo Moodle o entrega por correo) tenemos las siguientes ventajas:
+
+- Posibilidad de ver el código en el explorador web sin necesidad de descargarlo
+- Podemos crear conversaciones para realizar comentarios sobre la tarea
+- Posibilidad de hacer comentarios directamente sobre el código, haciendo referencia a líneas concretas, otros comentarios, commits, archivos, etc.
+- Opción de realizar tests automáticos para corrección de tareas o autoevaluación del alumnado
+- Colaboración entre distintas personas para tareas en grupo. Visibilización de las aportaciones de cada persona al trabajo común.
+
+
 Tarea 1: flujo de trabajo de solicitud de cambios de GitHub. https://docs.github.com/es/get-started/start-your-journey/hello-world
 
 
