@@ -11,6 +11,8 @@ Comparado con la gestión tradicional de tareas (creación de un fichero comprim
 
 En los repositorios de GitHub se pueden subir y editar ficheros de texto plano o en formato de lenguajes de marcas como [Markdown](https://markdownlivepreview.com/). , que se pueden enriquecer con referencias a otros contenidos como imágenes, enlaces a recursos internos (otros ficheros del repositorio) o externos (direcciones url). 
 
+Tarea 0 -> crear un cuenta de Github, usar cuenta de google o crear una cuenta de google para github. poner el usuario que quieras, una cuenta real y la contraseña que quieras.
+
 En Github lod contenidos se organizan en Repositorios. Un repositorio es una elemento de agrupación de elementos relacionados, como archivos, imágenes, vídeos o incluso otras carpetas. Los repositorios incluyen por defecto un archivo LÉAME o README con información sobre el proyecto. Los archivos LÉAME están escritos en Markdown. 
 
 El flujo de Github
@@ -20,12 +22,18 @@ Github permite mantener de forma simultánea varias versiones del contenido de u
 En GitHub, los cambios guardados dentro de una rama se llaman confirmaciones o commits. Cada uno tiene un mensaje de confirmación asociado, que sirve para describir el motivo del cambio. Los mensajes de confirmación capturan la historia de tus cambios que sirven para que otros usuarios puedan entender lo que hiciste y por qué (o a ti mismo para recordarlo).
 
 Para que los cambios confirmados en una rama se puedan incorporar o fusionar con otra rama, hay que abrir una solicitud de cambio. Cuando abres una solicitud de cambios, estás proponiendo tus cambios y solicitando que alguien revise e integre tu contribución y la fusione en su rama.
-En nuestro ejemplo, la solicitud de cambio se envía desde la nueva rama a la rama principal y serás tú quien tenga que confirmar la solicitud por ser dos ramans de tu repositorio. Lo normal es que haya en el repositorio otros colaboradores a los que les pedirías su revisión, que podrían comentar o proponer cambios en la solicitud de cambios antes de combinar los cambios en la rama principal.
+En nuestro ejemplo, la solicitud de cambio se envía desde la nueva rama a la rama principal y serás tú quien tenga que confirmar la solicitud por ser dos ramans de tu repositorio. Lo normal es que haya en el repositorio otros _colaboradores_ a los que les pedirías su revisión, que podrían comentar o proponer cambios en la solicitud de cambios antes de combinar los cambios en la rama principal.
 Una vez aceptadas todas las propuestas de cambio, el paso final consistirá en fusionar la segunda rama en la rama principal. Así, los cambios en la segunda rama se incorporarán a la principal.
 
-Tarea 0 -> crear un cuenta de Github, usar cuenta de google o crear una cuenta de google para github. poner el usuario que quieras, una cuenta real y la contraseña que quieras.
-
 Tarea 1: flujo de trabajo de solicitud de cambios de GitHub. https://docs.github.com/es/get-started/start-your-journey/hello-world
+
+Colaboración
+Hay que ser colaborador para poder solicitar cambios en el contenido de un repositorio? No necesariamente.
+
+GitHub ofrece dos mecanismos básicos para la colaboración en un determinado repositorio:
+.  Permisos de colaboradores - Se pueden agregar colaboradores a un repositorio para que puedan realizar cambios. Este método es útil si tenemos clara la identidad de todas las personas que van a colaborar en el repositorio.
+- Forks y Pull Requests - Mecanismo utilizado por defecto. Permite que personas que no tienen acceso de escritura al repositorio puedan hacer una copia del mismo en su propia cuenta y enviar los cambios para que la persona dueña del repositorio original decida si quiere o no integrarlos. Muy útil en proyectos de Código Abierto, donde las personas colaboradoras no se conocen entre sí.
+   
 
 Tarea 2 ->  Trabajo con repositorios, issues, forks y pull requests
 
