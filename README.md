@@ -10,7 +10,7 @@ GitHub ofrece funcionalidades muy interesantes para trabajar con prácticas rela
 - Opción de realizar tests automáticos para corrección de tareas o autoevaluación del alumnado
 - Colaboración entre distintas personas para tareas en grupo. Visibilización de las aportaciones de cada persona al trabajo común.
 
-GitHub permite añadir comentarios en varios sitios: por ejemplo, en Pull Requests, Issues y Commits. Los comentarios pueden formatearse mediante una sintaxis basada en Markdown.
+GitHub permite añadir comentarios en varios sitios: por ejemplo, en Pull Requests, Issues y Commits. Los comentarios pueden formatearse mediante una ![sintaxis basada en Markdown](https://markdownlivepreview.com/).
 
 Tarea 1: flujo de trabajo de solicitud de cambios de GitHub. https://docs.github.com/es/get-started/start-your-journey/hello-world
 
