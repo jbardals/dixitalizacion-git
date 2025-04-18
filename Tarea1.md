@@ -23,6 +23,8 @@ Vamos a fusionar los cambios en la rama webb respecto a la rama principal (fiche
 - Pulsamos el botón Merge y confirmamos Merge, el resultado debería ser:
   ![](imgs/confirm_merge.png)
 - Nos dice que podemos borrar la rama webb con seguridad porque los cambios de esa rama (el index.html) ya están en la rama principal
+- Para borrar la rama webb, desde el repo seleccionamos en:
+  ![](imgs/select_branch.png)
 - Harás cambios a un archivo y los subirás a GitHub como confirmaciones.
     Abre y fusiona una solicitud de cambios.
 
