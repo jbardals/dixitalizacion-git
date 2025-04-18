@@ -24,4 +24,5 @@ En la sección Settings -> Pages de tu repositorio TUNOMBRE:
   
 ![](imgs/deploy_github-pages.png)
 
+Continumaos con la parte 2 de la tarea 1 [tarea1](Tarea1.md)
 Comprueba que puedes acceder vía web al sitio publicado en dicha url.
