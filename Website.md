@@ -26,5 +26,5 @@ En la sección Settings -> Pages de tu repositorio TUNOMBRE:
 
 Comprueba que puedes acceder vía web al sitio publicado en dicha url.
 
-Continumaos con la parte 2 de la tarea 1 [tarea1](Tarea1.md)
+Continumaos con la parte 2 de la [tarea1](Tarea1.md)
 
