@@ -1,16 +1,15 @@
 # dixitalizacion-git
 
-GitHub es una plataforma en la nube donde puedes almacenar, compartir y colaborar con otros para escribir código. Almacenar tu código en un repositorio de GitHub te permite: mostrar o compartir tu trabajo, y hacer seguimiento y gestionar los cambios en tu código a lo largo del tiempo.
+GitHub es una plataforma en la nube donde puedes almacenar y compartir ficheros de texto o código par colaborar con otros usuarios. Almacenar estos ficheros en un repositorio de GitHub te permite: mostrar o compartir tu trabajo, y hacer seguimiento y gestionar los cambios que se vayan produciendo en su contenido a lo largo del tiempo.
 
-GitHub ofrece funcionalidades muy interesantes para trabajar con prácticas relacionadas con código o archivos de texto. Comparado con la gestión tradicional de tareas (creación de un fichero comprimido y subida de dicho fichero a una plataforma de tipo Moodle o entrega por correo) tenemos las siguientes ventajas:
+Comparado con la gestión tradicional de tareas (creación de un fichero comprimido y subida de dicho fichero a una plataforma de tipo Moodle o entrega por correo) tenemos las siguientes ventajas:
 
-- Posibilidad de ver el código en el explorador web sin necesidad de descargarlo
-- Podemos crear conversaciones para realizar comentarios sobre la tarea
-- Posibilidad de hacer comentarios directamente sobre el código, haciendo referencia a líneas concretas, otros comentarios, commits, archivos, etc.
-- Opción de realizar tests automáticos para corrección de tareas o autoevaluación del alumnado
+- Posibilidad de ver el contenido de los ficheros a través de un nvegador web sin necesidad de descargarlo.
+- Podemos crear conversaciones para realizar comentarios sobre la tarea.
+- Posibilidad de hacer comentarios haciendo referencia a líneas concretas del contenido, a otros comentarios, archivos, etc.
 - Colaboración entre distintas personas para tareas en grupo. Visibilización de las aportaciones de cada persona al trabajo común.
 
-Con GitHub es muy sencillo crear ficheros de contenido y añadir comentarios en varios sitios: por ejemplo, en Pull Requests, Issues y Commits que pueden formatearse mediante una [sintaxis basada en Markdown](https://markdownlivepreview.com/).
+En los repositorios de GitHub se pueden subir ficheros es muy sencillo crear ficheros de contenido y añadir comentarios en varios sitios: por ejemplo, en Pull Requests, Issues y Commits que pueden formatearse mediante una [sintaxis basada en Markdown](https://markdownlivepreview.com/).
 
 Tarea 0 -> crear un cuenta de Github, usar cuenta de google o crear una cuenta de google para github. poner el usuario que quieras, una cuenta real y la contraseña que quieras.
 
