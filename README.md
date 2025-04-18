@@ -9,7 +9,7 @@ Comparado con la gestión tradicional de tareas (creación de un fichero comprim
 - Posibilidad de hacer comentarios haciendo referencia a líneas concretas del contenido, a otros comentarios, archivos, etc.
 - Colaboración entre distintas personas para tareas en grupo. Visibilización de las aportaciones de cada persona al trabajo común.
 
-En los repositorios de GitHub se pueden subir ficheros es muy sencillo crear ficheros de contenido y añadir comentarios en varios sitios: por ejemplo, en Pull Requests, Issues y Commits que pueden formatearse mediante una [sintaxis basada en Markdown](https://markdownlivepreview.com/).
+En los repositorios de GitHub se pueden subir y editar ficheros de texto plano o en formato de lenguajes de marcas como [Markdown](https://markdownlivepreview.com/). , que se pueden enriquecer con referencias a otros contenidos como imágenes, enlaces a recursos internos (otros ficheros del repositorio) o externos (direcciones url). 
 
 Tarea 0 -> crear un cuenta de Github, usar cuenta de google o crear una cuenta de google para github. poner el usuario que quieras, una cuenta real y la contraseña que quieras.
 
