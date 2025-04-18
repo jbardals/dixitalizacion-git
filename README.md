@@ -11,6 +11,10 @@ Comparado con la gestión tradicional de tareas (creación de un fichero comprim
 
 En los repositorios de GitHub se pueden subir y editar ficheros de texto plano o en formato de lenguajes de marcas como [Markdown](https://markdownlivepreview.com/). , que se pueden enriquecer con referencias a otros contenidos como imágenes, enlaces a recursos internos (otros ficheros del repositorio) o externos (direcciones url). 
 
+En Github lod contenidos se organizan en Repositorios. Un repositorio es una elemento de agrupación de elementos relacionados, como archivos, imágenes, vídeos o incluso otras carpetas. Los repositorios incluyen por defecto un archivo LÉAME o README con información sobre el proyecto. Los archivos LÉAME están escritos en Markdown. 
+
+Github permite mantener de forma simultánea varias versiones del contenido de un repositorio, que son cocnocidas como ramas. Cada repositorio se crea por defecto con la rama main o principal, que tendría el contenido definitivo. Para poder probar cambios (añadir o modificar contenidos) antes de hacerlos definitivos, podemos crear una rama  del repositorio  forma segura, Se pueden crear otras ramas 
+
 Tarea 0 -> crear un cuenta de Github, usar cuenta de google o crear una cuenta de google para github. poner el usuario que quieras, una cuenta real y la contraseña que quieras.
 
 Tarea 1: flujo de trabajo de solicitud de cambios de GitHub. https://docs.github.com/es/get-started/start-your-journey/hello-world
