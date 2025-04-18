@@ -1,0 +1,1 @@
+WMIC computersystem where caption='nombre actual' rename nuevo_nombre
