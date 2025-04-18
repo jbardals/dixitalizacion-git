@@ -16,10 +16,9 @@ Se puede crear un sitio web asociado a cualquier repositorio. Algunos ejemplos d
 - Trabajos o presentaciones de alumnos
 -  ...
 
-Para crear el sitio web seguir los siguientes pasos,   
-- Crear repositorio -> tal y como se indica en el aptdo Crear un repositorio en la url https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site:
-- Crear sitio -> vamos a publicar desde una rama. Sigue los pasos del aptdo Publicacion desde una rama en https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch
-  
+En la sección Settings -> Pages de tu repositorio TUNOMBRE:
+- Selecciona la rama webb y la carpeta root , ya que el fichero index.html se ubica en la raíz del repositorio. Si lo huiberas creado dentro de una carpeta, tendrías que seleccioanr dicha carpeta.
+- 
   En la pagina principal del repositorio, busca abajo a la derecha la sección Deployments y pulsa en github-pages.
   https://TUNOMBREDEUSUARIO.github.io/nombrerepositorio.
   
