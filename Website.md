@@ -18,10 +18,10 @@ Se puede crear un sitio web asociado a cualquier repositorio. Algunos ejemplos d
 
 En la sección Settings -> Pages de tu repositorio TUNOMBRE:
 - Selecciona la rama webb y la carpeta root , ya que el fichero index.html se ubica en la raíz del repositorio. Pulsa el botón Save.
-- 
-  En la pagina principal del repositorio, busca abajo a la derecha la sección Deployments y pulsa en github-pages.
-  https://TUNOMBREDEUSUARIO.github.io/nombrerepositorio.
+  
+  En la pagina principal del repositorio, busca abajo a la derecha la sección Deployments:
+  - Pulsa en github-pages. Verás que aparece como desplegada en el entorno github-pages la url https://TUNOMBREDEUSUARIO.github.io/nombrerepositorio.
   
 ![](imgs/deploy_github-pages.png)
 
-Incluye un fichero index.html con tu nombre y tus apellidos. Comprueba que puedes acceder vía web al sitio publicado.
+Comprueba que puedes acceder vía web al sitio publicado en dicha url.
