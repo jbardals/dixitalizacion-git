@@ -18,3 +18,13 @@ alert(message);
 - .... y confirma los cambios. Comprueba que estos cambios sólo afectan a la rama "contenido-web" pero no a a principal
 - Harás cambios a un archivo y los subirás a GitHub como confirmaciones.
     Abre y fusiona una solicitud de cambios.
+
+## Blocks of code
+
+```
+let message = 'Hello world';
+alert(message);
+```
+
+
+    
