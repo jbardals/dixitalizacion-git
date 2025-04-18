@@ -16,7 +16,10 @@
 Vamos a fusionar los cambios en la rama webb respecto a la rama principal (fichero index.html). Para ello:
 - Cambiar a la rama webb.
 - Pulsamos el botón Contribute y seleccionamos la opción Compare para ver las diferencias con la otra rama.
-- Pulsamoa creata pull request para lanzar la solicitud e cambios.
+- Pulsamoa creata pull request para lanzar la solicitud de cambios a la rama principal.
+- En la descripción del cambio, indicamos que queremos fusionar la rama webb con la rama principal.
+- Si todo va bieb, nos indica que quiere fusionar los cambios relaizafos en la rama webb con la rama orincipal.
+- 
 - Harás cambios a un archivo y los subirás a GitHub como confirmaciones.
     Abre y fusiona una solicitud de cambios.
 
