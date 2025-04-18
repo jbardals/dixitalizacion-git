@@ -25,8 +25,9 @@ Vamos a fusionar los cambios en la rama webb respecto a la rama principal (fiche
 - Nos dice que podemos borrar la rama webb con seguridad porque los cambios de esa rama (el index.html) ya están en la rama principal
 - Para borrar la rama webb, desde el repo seleccionamos en:
   ![](imgs/select_branch.png)
-- Harás cambios a un archivo y los subirás a GitHub como confirmaciones.
-    Abre y fusiona una solicitud de cambios.
+- Hemos borrado la rama webb, que usamos para desplegar el entorno de Github pages, pero después de haber fusionado la rama webb con la rama principal. Qué sucede con el sitio web estátivo? Sigue funcinando?
+  ![](imgs/sitio_web_estatico.png)
+SIGUE FUNCIONANDO DESDE LA RAMA MAIN
 
 
 
