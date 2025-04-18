@@ -19,7 +19,7 @@ Vamos a fusionar los cambios en la rama webb respecto a la rama principal (fiche
 - Pulsamoa creata pull request para lanzar la solicitud de cambios a la rama principal.
 - En la descripción del cambio, indicamos que queremos fusionar la rama webb con la rama principal.
 - Si todo va bieb, nos indica que quiere fusionar los cambios relaizafos en la rama webb con la rama orincipal.
-![merge](imgs/merge.ong)
+![merge](imgs/merge.png)
 - 
 - 
 - Harás cambios a un archivo y los subirás a GitHub como confirmaciones.
