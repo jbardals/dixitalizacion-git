@@ -1,7 +1,7 @@
 # Tarea 1: flujo de trabajo de solicitud de cambios de GitHub.
 
 ## Parte 1:
-- Crea un repositorio "soy_TUNOMBRE" que tenga un fichero README. El repositorio será público.
+- Crea un repositorio "soy_TUNOMBRE" que tenga un fichero README. El repositorio será público. Para crear un repositorio, seguir los pasos indicados en la url https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site:
 - Crea una rama nueva de nombre  "contenido-web". Cámbiate a esa rama y crea un fichero index.html.
 - Edita ese fichero y copia en él el siguiente contenido:
 ```
