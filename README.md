@@ -28,11 +28,13 @@ Una vez aceptadas todas las propuestas de cambio, el paso final consistirá en f
 Tarea 1: flujo de trabajo de solicitud de cambios de GitHub. https://docs.github.com/es/get-started/start-your-journey/hello-world
 
 Colaboración
+
 Hay que ser colaborador para poder solicitar cambios en el contenido de un repositorio? No necesariamente.
 
 GitHub ofrece dos mecanismos básicos para la colaboración en un determinado repositorio:
-.  Permisos de colaboradores - Se pueden agregar colaboradores a un repositorio para que puedan realizar cambios. Este método es útil si tenemos clara la identidad de todas las personas que van a colaborar en el repositorio.
-- Forks y Pull Requests - Mecanismo utilizado por defecto. Permite que personas que no tienen acceso de escritura al repositorio puedan hacer una copia del mismo en su propia cuenta y enviar los cambios para que la persona dueña del repositorio original decida si quiere o no integrarlos. Muy útil en proyectos de Código Abierto, donde las personas colaboradoras no se conocen entre sí.
+
+- Permisos de colaboradores - Se pueden agregar colaboradores a un repositorio para que puedan realizar cambios. Este método es útil si tenemos clara la identidad de todas las personas que van a colaborar en el repositorio.
+- Forks y Pull Requests: Mecanismo utilizado por defecto. Permite que personas que no tienen acceso de escritura al repositorio puedan hacer una copia del mismo en su propia cuenta y enviar los cambios para que la persona dueña del repositorio original decida si quiere o no integrarlos. Muy útil en proyectos de Código Abierto, donde las personas colaboradoras no se conocen entre sí.
    
 
 Tarea 2 ->  Trabajo con repositorios, issues, forks y pull requests
