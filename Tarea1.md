@@ -41,8 +41,9 @@ Vamos a fusionar los cambios en la rama webb respecto a la rama principal (fiche
 - Para borrar la rama webb, desde el repo seleccionamos en:
   ![](imgs/select_branch.png)
 - Hemos borrado la rama webb, que usamos para desplegar el entorno de Github pages, pero después de haber fusionado la rama webb con la rama principal. Qué sucede con el sitio web estátivo? Sigue funcinando?
-  ![](imgs/sitio_web_estatico.png)
-SIGUE FUNCIONANDO DESDE LA RAMA MAIN
+
+## Entrega 2
+- Crea en la raíz de tu repositorio un fichero de texto con tu respuesta a la pregunta anterior. Añade en dicho fichero la url de tu sitio web estático.
 
 
 
