@@ -5,14 +5,10 @@ Por si no te has dado cuenta, tú sólo tienes permisos de lectura sobre los con
 
 Qué sucede si intentas crear o editar un fichero en el repositorio y guardar los cambios? Te indica que tienes que realizar un fork:
 ![](imgs/fork_message.png)
-- Haz un fork del repositorio localizado en la siguiente url: https://github.com/curso-github-cefire/sesion3-practica. A partir de este momento todas las tareas que se indican se deben realizar en tu repositorio (el que has clonado mediante el fork).
-- Realiza un primer commit para poner tu nombre y apellidos en el fichero README.md
-- Crea 3 issues con los siguientes títulos. Si no ves la pestaña de issues, actívala desde los ajustes (settings) del repositorio.
-            Añadir 3 libros
-            Añadir 3 películas
-            Añadir 3 discos
-- Crea una milestone denominada Tareas sesión 3-2 que contenga los 3 issues creados.
-- Modifica los ficheros correspondientes y realiza 3 commits para realizar cada una de las tareas que se indican en los issues. El mensaje del commit debe hacer que se cierren los issues correspondientes de manera automática.
+
+Yo ahora, como profesor, quiero que realices en este repositorio la entrega de las tareas propuestas en el repositorio pero sin que puedas modificar o editar los contenidos del repositorio. Para ello te voy a pedir que realices los siguientes pasos:
+- Haz un fork de este repositorio. A partir de este momento todas las tareas que se indican a continuación se realizarán en tu repositorio (el que has clonado mediante el fork).
+- Realiza un commit para poner tu nombre y apellidos y la url de tu respositorio en el fichero Entrega.md
 - Haz una captura de pantalla de los comandos que has utilizado para hacer los commits y subir los cambios a GitHub.
 - Incluye las capturas de pantalla en el repositorio dentro de la carpeta capturas. Añádelas también al repositorio de manera que queden guardadas en tu repositorio en GitHub.
 - Realiza una pull request indicando en el mensaje que has completado la tarea.
