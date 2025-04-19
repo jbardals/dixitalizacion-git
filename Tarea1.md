@@ -11,8 +11,10 @@ Acciones a realizar en la tarea:
 - Crea un repositorio "soy_TUNOMBRE" que tenga un fichero README. El repositorio será público. Para crear un repositorio, seguir los pasos indicados en la url https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site:
 - Crea una carpeta de nombre imaxes en tu repositorio que usarás para guardar capturas de pantalla. Para crear la carpeta, selecciona la opción Add file -> create new file, como se muestra en la siguiente imagen:
 ![](imgs/create_file.png)
+
 A continuación escribes el nombre del directorio
 ![](imgs/dir_name.png)
+
 y confirmas los cambios
 
 - Crea una rama nueva de nombre  "contenido-web". Sigue los pasos del aptdo Publicacion desde una rama en https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch
