@@ -9,6 +9,8 @@ Qué sucede si intentas crear o editar un fichero en el repositorio y guardar lo
 Yo ahora, como profesor, quiero que realices en este repositorio la entrega de las tareas propuestas en el repositorio pero sin que puedas modificar o editar los contenidos del repositorio. Para ello te voy a pedir que realices los siguientes pasos:
 - Haz un fork de este repositorio. A partir de este momento todas las tareas que se indican a continuación se realizarán en tu repositorio (el que has clonado mediante el fork).
 - Realiza un commit para poner tu nombre y apellidos y la url de tu respositorio en el fichero Entrega.md
+- Edita el fichero Entrega.md y añade los siguientes datos:
+    - xxx
 - Haz una captura de pantalla de los comandos que has utilizado para hacer los commits y subir los cambios a GitHub.
 - Incluye las capturas de pantalla en el repositorio dentro de la carpeta capturas. Añádelas también al repositorio de manera que queden guardadas en tu repositorio en GitHub.
 - Realiza una pull request indicando en el mensaje que has completado la tarea.
