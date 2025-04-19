@@ -5,7 +5,7 @@ GitHub es una plataforma en la nube donde puedes almacenar y compartir ficheros 
 
 ## Tareas basadas en repositorios para trabajo en clase
 
-GitHub ofrece funcionalidades muy interesantes para trabajar con prácticas relacionadas con código o archivos de texto. 
+GitHub ofrece funcionalidades muy interesantes para trabajar con prácticas o tareas en las que se trabaje con código o archivos de texto. 
 Comparado con la gestión tradicional de tareas (creación de un fichero comprimido y subida de dicho fichero a una plataforma de tipo Moodle o entrega por correo) tenemos las siguientes ventajas:
 
 - Posibilidad de ver el contenido de los ficheros a través de un nvegador web sin necesidad de descargarlo.
