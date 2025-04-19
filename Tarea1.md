@@ -43,7 +43,8 @@ Vamos a fusionar los cambios en la rama webb respecto a la rama principal (fiche
 - Hemos borrado la rama webb, que usamos para desplegar el entorno de Github pages, pero después de haber fusionado la rama webb con la rama principal. Qué sucede con el sitio web estátivo? Sigue funcinando?
 
 ## Entrega 2
-- Crea en la raíz de tu repositorio un fichero de texto con el nombre Entrega2. Incñuye en él tu respuesta a la pregunta anterior. Añade en dicho fichero la url de tu sitio web estático.
+- Crea en la raíz de tu repositorio un fichero en formato markdown con el nombre Entrega2. No te olvides de añadir la extensión md al nombre del fichero -> Entrega2.md
+- Incñuye en él tu respuesta a la pregunta anterior. Añade en dicho fichero la url de tu sitio web estático.
 
 
 
