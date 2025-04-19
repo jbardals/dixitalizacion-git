@@ -6,7 +6,8 @@ Por si no te has dado cuenta, tú sólo tienes permisos de lectura sobre los con
 Qué sucede si intentas crear o editar un fichero en el repositorio y guardar los cambios? Te indica que tienes que realizar un fork:
 ![](imgs/fork_message.png)
 
-Yo ahora, como profesor, quiero que realices en este repositorio la entrega de las tareas propuestas en el repositorio pero sin que puedas modificar o editar los contenidos del repositorio. Para ello te voy a pedir que realices los siguientes pasos:
+Yo ahora, como profesor, quiero que realices en este repositorio la entrega de las tareas propuestas en el repositorio pero sin que puedas modificar o editar los contenidos del repositorio. Para ello te voy a pedir que realices los siguientes pasos de entrega:
+### Entrega
 - Haz un fork de este repositorio.
   ![](imgs/create_fork.png)
   A partir de este momento todas las tareas que se indican a continuación se realizarán en tu repositorio (el que has clonado mediante el fork).
