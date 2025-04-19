@@ -16,6 +16,7 @@ En los repositorios de GitHub se pueden subir y editar ficheros de texto plano o
 Para poder usar Github, tienes que registrarte [creando una cuenta de Github](https://docs.github.com/es/get-started/start-your-journey/creating-an-account-on-github) con el usuario y la contraseña que quieras, y proporcionando una cuenta de correo real (por ejemplo, una cuenta de google, puedes crear las que quieras).
 
 ## El flujo de trabajo de Github
+A continuación se describe el workflow estándar de [gestión de cambios](https://docs.github.com/es/get-started/start-your-journey/hello-world) de los contenidos de los repositorios, que puedes consultar en el siguiente enlace de la documentación de Github
 ### Repositorios
 En Github lod contenidos se organizan en Repositorios. Un repositorio es una elemento de agrupación de elementos relacionados, como archivos, imágenes, vídeos o incluso otras carpetas. Los repositorios incluyen por defecto un archivo LÉAME o README con información sobre el proyecto. Los archivos LÉAME están escritos en Markdown. 
 
@@ -30,7 +31,7 @@ En GitHub, los cambios guardados dentro de una rama se llaman confirmaciones o c
 ### Pull requests o solicitudes de cambio
 Para que los cambios confirmados en una rama se puedan incorporar o fusionar con otra rama, hay que abrir una solicitud de cambio. Cuando abres una solicitud de cambios, estás proponiendo tus cambios y solicitando que alguien revise e integre tu contribución y la fusione en su rama.
 En nuestro ejemplo, la solicitud de cambio se envía desde la nueva rama a la rama principal y serás tú quien tenga que confirmar la solicitud por ser dos ramans de tu repositorio. Lo normal es que haya en el repositorio otros _colaboradores_ a los que les pedirías su revisión, que podrían comentar o proponer cambios en la solicitud de cambios antes de combinar los cambios en la rama principal.
-## Merge o fusión de ramas
+### Merge o fusión de ramas
 Una vez aceptadas todas las propuestas de cambio, el paso final consistirá en fusionar la segunda rama en la rama principal. Así, los cambios en la segunda rama se incorporarán a la principal.
 
 Tarea 1: flujo de trabajo de solicitud de cambios de GitHub.
