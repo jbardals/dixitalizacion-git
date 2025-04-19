@@ -16,11 +16,9 @@ En los repositorios de GitHub se pueden subir y editar ficheros de texto plano o
 Para poder usar Github, tienes que registrarte [creando una cuenta de Github](https://docs.github.com/es/get-started/start-your-journey/creating-an-account-on-github) con el usuario y la contraseña que quieras, y proporcionando una cuenta de correo real (por ejemplo, una cuenta de google, puedes crear las que quieras).
 
 ## El flujo de trabajo de Github
-A continuación se describen los principales componentes del [workflow estándar gestión de cambios](https://docs.github.com/es/get-started/start-your-journey/hello-world) de los contenidos de los repositorios.
+A continuación se describen los principales componentes del [workflow estándar de gestión de cambios](https://docs.github.com/es/get-started/start-your-journey/hello-world) de los contenidos de los repositorios.
 ### Repositorios
 En Github lod contenidos se organizan en Repositorios. Un repositorio es una elemento de agrupación de elementos relacionados, como archivos, imágenes, vídeos o incluso otras carpetas. Los repositorios incluyen por defecto un archivo LÉAME o README con información sobre el proyecto. Los archivos LÉAME están escritos en Markdown. 
-
-El flujo de Github  ->  https://docs.github.com/es/get-started/start-your-journey/hello-world
 
 ### Ramas
 Github permite mantener de forma simultánea varias versiones del contenido de un repositorio, que son cocnocidas como ramas. Cada repositorio se crea por defecto con la rama main o principal, que tendría el contenido definitivo. Para poder probar cambios (añadir o modificar contenidos) antes de hacerlos "definitivos", podemos crear una nueva rama del repositorio a partir de la rama principal. Esa nueva rama tendrá una copia de los contenidos de la rama principal. En esa nueva rama podemos implementar y probar los cambios que queramos sin afectar al contenido de la rama principal. Cuando estemos seguros de que los cambios en la nueva rama están correctos, confirmaremos los cambios en la nueva rama y solicitaremos entonces la incorporación de esos cambios en la rama principal, que pasarán así a ser "definitivos".
@@ -34,7 +32,6 @@ En nuestro ejemplo, la solicitud de cambio se envía desde la nueva rama a la ra
 ### Merge o fusión de ramas
 Una vez aceptadas todas las propuestas de cambio, el paso final consistirá en fusionar la segunda rama en la rama principal. Así, los cambios en la segunda rama se incorporarán a la principal.
 
-Puedes consultar una completa descripción del [workflow estándar de gestión de cambios](https://docs.github.com/es/get-started/start-your-journey/hello-world) de los contenidos de los repositorios, que puedes consultar en el siguiente enlace de la documentación de Github
 Tarea 1: flujo de trabajo de solicitud de cambios de GitHub.
 
     Crea un repositorio.
@@ -42,10 +39,7 @@ Tarea 1: flujo de trabajo de solicitud de cambios de GitHub.
     Cambia un archivo y confirma esos cambios en GitHub.
     Abre y fusiona una solicitud de cambios.
 
-
-https://docs.github.com/es/get-started/start-your-journey/hello-world
-
-Colaboración
+## Colaboración
 
 Hay que ser colaborador para poder solicitar cambios en el contenido de un repositorio? No necesariamente.
 
