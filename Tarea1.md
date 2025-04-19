@@ -44,7 +44,7 @@ Vamos a fusionar los cambios en la rama webb respecto a la rama principal (fiche
 
 ## Entrega 1.2
 - Crea en la raíz de tu repositorio un fichero en formato markdown con el nombre Entrega12. No te olvides de añadir la extensión md al nombre del fichero -> Entrega12.md
-- Incñuye en él tu respuesta a la pregunta anterior. Añade en dicho fichero la url de tu sitio web estático.
+- Incñuye en él tu respuesta a la pregunta anterior. Añade en dicho fichero la url de tu sitio web estático -> https://TUNOMBREDEUSUARIO.github.io/nombrerepositorio.
 
 
 
