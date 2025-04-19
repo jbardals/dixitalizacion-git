@@ -46,5 +46,5 @@ GitHub ofrece dos mecanismos básicos para la colaboración en un determinado re
 - Permisos de colaboradores - Se pueden agregar colaboradores a un repositorio para que puedan realizar cambios. Este método es útil si tenemos clara la identidad de todas las personas que van a colaborar en el repositorio.
 - Forks y Pull Requests: Mecanismo utilizado por defecto. Permite que personas que no tienen acceso de escritura al repositorio puedan hacer una copia del mismo en su propia cuenta y enviar los cambios para que la persona dueña del repositorio original decida si quiere o no integrarlos. Muy útil en proyectos de Código Abierto, donde las personas colaboradoras no se conocen entre sí.
 
-[Tarea 2: Forks y pull requests](Traballo_aulas_repos.md)
+[Tarea 2: Metodología de entrega de tareas individuales a través de Github](Traballo_aulas_repos.md)
 
