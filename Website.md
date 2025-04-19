@@ -34,8 +34,6 @@ Comprueba que puedes acceder vía web al sitio publicado en la url https://TUNOM
 - Sube el fichero a la carpeta de imaxes. Para ello, desde la carpeta de imaxes seleccionamos la opción upload file
 ![](imgs/upload_file.png)
 y subimos el fichero Entrega11
-- 
-- 
 
 Continuamos con la parte 2 de la [tarea1](Tarea1.md)
 
