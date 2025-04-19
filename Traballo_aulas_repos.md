@@ -9,7 +9,9 @@ Qué sucede si intentas crear o editar un fichero en el repositorio y guardar lo
 Yo ahora, como profesor, quiero que realices en este repositorio la entrega de las tareas propuestas en el repositorio pero sin que puedas modificar o editar los contenidos del repositorio. Para ello te voy a pedir que realices los siguientes pasos:
 - Haz un fork de este repositorio.
   ![](imgs/create_fork.png)
-  A partir de este momento todas las tareas que se indican a continuación se realizarán en tu repositorio (el que has clonado mediante el fork).
+  A partir de este momento todas las tareas que se indican a continuación se realizarán en tu repositorio (el que has clonado mediante el fork).  Yo en mi repositorio voy a ver que has creado el fork:
+![](imgs/check_fork.png)
+  
 - Ya en tu repositorio clonado: Edita el fichero Entrega.md y añade los siguientes datos:
     - tu nombre y apellidos
     -  url de tu repositorio.
