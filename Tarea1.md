@@ -1,6 +1,6 @@
 # Tarea 1: flujo de trabajo de solicitud de cambios de GitHub.
 
-Guión de la tarea:
+Acciones a realizar en la tarea:
 - Crea un repositorio.
 - Inicia y administra una rama nueva.
 - Cambia un archivo y confirma esos cambios en GitHub.
