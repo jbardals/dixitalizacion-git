@@ -21,7 +21,7 @@ Yo ahora, como profesor, quiero que realices en este repositorio la entrega de l
 - A mí me llega un aviso de solicitud de entrega como éste:
  ![](imgs/chegada_pull_request.png)
 
-![](imgs/solicitud_entrega.png)
+![](imgs/Solicitud_entrega.png)
 - Accedo al fork correspondiente y visualizo la entrega
 
 ## Entrega
