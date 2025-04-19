@@ -24,6 +24,7 @@ Yo ahora, como profesor, quiero que realices en este repositorio la entrega de l
 ![](imgs/Solicitud_entrega.png)
 - Accedo al fork correspondiente y visualizo la entrega:
 ![](imgs/check_fork.png)
+![](imgs/listado_forks.png)
 
 ## Entrega
 
