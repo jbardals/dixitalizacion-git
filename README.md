@@ -47,7 +47,7 @@ GitHub ofrece dos mecanismos básicos para la colaboración en un determinado re
 - Forks y Pull Requests: Mecanismo utilizado por defecto. Permite que personas que no tienen acceso de escritura al repositorio puedan hacer una copia del mismo en su propia cuenta y enviar los cambios para que la persona dueña del repositorio original decida si quiere o no integrarlos. Muy útil en proyectos de Código Abierto, donde las personas colaboradoras no se conocen entre sí.
    
 
-Tarea 2 ->  Trabajo con repositorios, issues, forks y pull requests
+[Tarea 2: Forks y pull requests](Traballo_aulas_repos.md)
 
 - Haz un fork del repositorio localizado en la siguiente url: https://github.com/curso-github-cefire/sesion3-practica. A partir de este momento todas las tareas que se indican se deben realizar en tu repositorio (el que has clonado mediante el fork).
 - Realiza un primer commit para poner tu nombre y apellidos en el fichero README.md
