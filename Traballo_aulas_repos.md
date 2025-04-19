@@ -55,4 +55,4 @@ El flujo de trabajo anterior es adecuado para la entrega de tareas individuales.
 - Cada alumno es dueño de su repositorio
 - En caso de tener integración con Travis, cada alumno deberá activarla en su repositorio
 
-Otra opción sería el uso de organizaciones y [Classrooms](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom)
+Otra opción sería el uso de Organizaciones y [Classrooms](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom)
