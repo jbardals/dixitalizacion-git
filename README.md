@@ -34,7 +34,7 @@ Una vez aceptadas todas las propuestas de cambio, el paso final consistirá en f
 
 [Tarea 1: flujo de trabajo de solicitud de cambios de GitHub.](Tarea1.md)
 
-## Colaboración
+## Github como herramienta de Colaboración
 
 Hay que ser colaborador para poder solicitar cambios en el contenido de un repositorio? No necesariamente.
 
