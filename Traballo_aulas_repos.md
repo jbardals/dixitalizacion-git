@@ -15,8 +15,6 @@ Yo ahora, como profesor, quiero que realices en este repositorio la entrega de l
     - tu nombre y apellidos
     -  url del repositorio que creaste en la Tarea 1.
 - Realiza un commit de los cambios del fichero en tu repositorio.
-- Haz una captura de pantalla de los comandos que has utilizado para hacer los commits y subir los cambios a GitHub.
-- Incluye las capturas de pantalla en el repositorio dentro de la carpeta capturas. Añádelas también al repositorio de manera que queden guardadas en tu repositorio en GitHub.
 - Realiza una pull request indicando en el mensaje que has completado la tarea.
   ![](imgs/create_pull_request.png)
 - A mí me llega un aviso de solicitud de entrega como éste:
