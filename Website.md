@@ -29,6 +29,7 @@ Comprueba que puedes acceder vía web al sitio publicado en la url https://TUNOM
 
 ## Entrega1
 - Realiza una captura de la pantalla de la configuración de tu repositorio en Settings -> Pages mostrando la url del website y la rama de desplieue.
+![](imgs/setting_pages.png)
 - Guarda la imagen capturada en un fichero de imagen con el nombre Entrega1
 - Sube el fichero a la carpeta de imaxes. Para ello, desde la carpeta de imaxes seleccionamos la opción upload file
 ![](imgs/upload_file.png)
