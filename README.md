@@ -1,5 +1,6 @@
-# dixitalizacion-git
+# Github
 
+## Introducción
 GitHub es una plataforma en la nube donde puedes almacenar y compartir ficheros de texto o código par colaborar con otros usuarios. Almacenar estos ficheros en un repositorio de GitHub te permite: mostrar o compartir tu trabajo, y hacer seguimiento y gestionar los cambios que se vayan produciendo en su contenido a lo largo del tiempo.
 
 Comparado con la gestión tradicional de tareas (creación de un fichero comprimido y subida de dicho fichero a una plataforma de tipo Moodle o entrega por correo) tenemos las siguientes ventajas:
@@ -11,8 +12,10 @@ Comparado con la gestión tradicional de tareas (creación de un fichero comprim
 
 En los repositorios de GitHub se pueden subir y editar ficheros de texto plano o en formato de lenguajes de marcas como [Markdown](https://markdownlivepreview.com/). , que se pueden enriquecer con referencias a otros contenidos como imágenes, enlaces a recursos internos (otros ficheros del repositorio) o externos (direcciones url). 
 
+## Creación de cuentas en Github
 Para poder usar Github, tienes que registrarte [creando una cuenta de Github](https://docs.github.com/es/get-started/start-your-journey/creating-an-account-on-github) con el usuario y la contraseña que quieras, y proporcionando una cuenta de correo real (por ejemplo, una cuenta de google, puedes crear las que quieras).
 
+## El flujo de trabajo de Github
 En Github lod contenidos se organizan en Repositorios. Un repositorio es una elemento de agrupación de elementos relacionados, como archivos, imágenes, vídeos o incluso otras carpetas. Los repositorios incluyen por defecto un archivo LÉAME o README con información sobre el proyecto. Los archivos LÉAME están escritos en Markdown. 
 
 El flujo de Github  ->  https://docs.github.com/es/get-started/start-your-journey/hello-world
