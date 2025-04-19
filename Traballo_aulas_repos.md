@@ -2,6 +2,7 @@
 ## Trabajo con repositorios, issues, forks y pull requests
 
 Por si no te has dado cuenta, tú sólo tienes permisos de lectura sobre los contenidos de este repositorio.
+
 Qué sucede si intentas editar un fichero del repositorio y guardar los cambios? Te indica que tienes que realizar un fork:
 ![](imgs/fork_message.png)
 - Haz un fork del repositorio localizado en la siguiente url: https://github.com/curso-github-cefire/sesion3-practica. A partir de este momento todas las tareas que se indican se deben realizar en tu repositorio (el que has clonado mediante el fork).
