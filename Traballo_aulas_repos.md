@@ -26,7 +26,8 @@ Yo ahora, como profesor, quiero que realices en este repositorio la entrega de l
 ![](imgs/listado_forks.png)
 
 ## IMPORTANTE: 
-### Para finalizar, debes realizar la entrega de la tarea en Moodle. Para ello, copia en la tarea de Moodle la url de tu  repositorio https://github.com/TUCUENTADEUSUARIO/dixitalizacion-git, como puedes leer en las instrucciones de entrega de la misma.###
+### Para finalizar, debes realizar la entrega de la tarea en Moodle. Para ello, copia en la tarea de Moodle la url de tu  repositorio https://github.com/TUCUENTADEUSUARIO/dixitalizacion-git, como puedes leer en las instrucciones de entrega de la misma.
+
 
 ## Flujo de trabajo para entrega de prácticas individuales
 El flujo de trabajo anterior es adecuado para la entrega de tareas individuales. Este es el resumen de todos los pasos:
