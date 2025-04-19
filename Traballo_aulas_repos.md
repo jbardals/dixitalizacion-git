@@ -10,7 +10,7 @@ Yo ahora, como profesor, quiero que realices en este repositorio la entrega de l
 ## Entrega 1.3
 - Haz un fork de este repositorio.
   ![](imgs/create_fork.png)
-  A partir de este momento todas las tareas que se indican a continuación se realizarán en tu repositorio (el que has clonado mediante el fork), que tendrá una url .....
+  A partir de este momento todas las tareas que se indican a continuación se realizarán en tu repositorio (el que has clonado mediante el fork), que tendrá una url .....https://github.com/TUCUENTADEUSUARIO/dixitalizacion-git
 - Ya en tu repositorio clonado: Edita el fichero Entrega.md y añade los siguientes datos:
     - tu nombre y apellidos
     -  url del repositorio que creaste en la Tarea 1.
@@ -26,7 +26,7 @@ Yo ahora, como profesor, quiero que realices en este repositorio la entrega de l
 ![](imgs/listado_forks.png)
 
 ## IMPORTANTE: 
-# Para finalizar, debes realizar la entrega de la tarea en Moodle. Para ello, copia en la tarea de Moodle la url de este repositorio, como puedes leer en las instrucciones de entrega de la misma.#
+# Para finalizar, debes realizar la entrega de la tarea en Moodle. Para ello, copia en la tarea de Moodle la url de tu  repositorio https://github.com/TUCUENTADEUSUARIO/dixitalizacion-git, como puedes leer en las instrucciones de entrega de la misma.#
 
 ## Flujo de trabajo para entrega de prácticas individuales
 El flujo de trabajo anterior es adecuado para la entrega de tareas individuales. Este es el resumen de todos los pasos:
