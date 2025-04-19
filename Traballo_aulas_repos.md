@@ -1,7 +1,7 @@
 
 ## Trabajo colaborativo con forks y pull requests
 
-Por si no te has dado cuenta, tú sólo tienes permisos de lectura sobre los contenidos de este repositorio.
+Por si no te has dado cuenta, tú sólo tienes permisos de lectura sobre los contenidos de este repositorio https://github.com/jbardals/dixitalizacion-git
 
 Qué sucede si intentas crear o editar un fichero en el repositorio y guardar los cambios? Te indica que tienes que realizar un fork:
 ![](imgs/fork_message.png)
@@ -10,7 +10,7 @@ Yo ahora, como profesor, quiero que realices en este repositorio la entrega de l
 ## Entrega 1.3
 - Haz un fork de este repositorio.
   ![](imgs/create_fork.png)
-  A partir de este momento todas las tareas que se indican a continuación se realizarán en tu repositorio (el que has clonado mediante el fork).
+  A partir de este momento todas las tareas que se indican a continuación se realizarán en tu repositorio (el que has clonado mediante el fork), que tendrá una url .....
 - Ya en tu repositorio clonado: Edita el fichero Entrega.md y añade los siguientes datos:
     - tu nombre y apellidos
     -  url del repositorio que creaste en la Tarea 1.
