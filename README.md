@@ -32,12 +32,7 @@ En nuestro ejemplo, la solicitud de cambio se envía desde la nueva rama a la ra
 ### Merge o fusión de ramas
 Una vez aceptadas todas las propuestas de cambio, el paso final consistirá en fusionar la segunda rama en la rama principal. Así, los cambios en la segunda rama se incorporarán a la principal.
 
-Tarea 1: flujo de trabajo de solicitud de cambios de GitHub.
-
-    Crea un repositorio.
-    Inicia y administra una rama nueva.
-    Cambia un archivo y confirma esos cambios en GitHub.
-    Abre y fusiona una solicitud de cambios.
+[Tarea 1: flujo de trabajo de solicitud de cambios de GitHub.](Tarea1.md)
 
 ## Colaboración
 
