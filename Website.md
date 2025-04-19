@@ -17,7 +17,7 @@ Se puede crear un sitio web asociado a cualquier repositorio. Algunos ejemplos d
 - Trabajos o presentaciones de alumnos
 -  ...
 
-En la sección Settings -> Pages de tu repositorio TUNOMBRE:
+Para crear un sitio web para tu cuenta de usuario de Github, en la sección Settings -> Pages de tu repositorio TUNOMBRE:
 - Selecciona la rama webb y la carpeta root , ya que el fichero index.html se ubica en la raíz del repositorio. Pulsa el botón Save.
   
   En la pagina principal del repositorio, busca abajo a la derecha la sección Deployments:
