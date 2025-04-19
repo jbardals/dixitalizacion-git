@@ -7,7 +7,7 @@ Qué sucede si intentas crear o editar un fichero en el repositorio y guardar lo
 ![](imgs/fork_message.png)
 
 Yo ahora, como profesor, quiero que realices en este repositorio la entrega de las tareas propuestas en el mismo pero sin que puedas modificar o editar los contenidos del repositorio. Para ello te voy a pedir que realices los siguientes pasos de entrega:
-### Entrega
+## Entrega 1.3
 - Haz un fork de este repositorio.
   ![](imgs/create_fork.png)
   A partir de este momento todas las tareas que se indican a continuación se realizarán en tu repositorio (el que has clonado mediante el fork).
@@ -25,7 +25,8 @@ Yo ahora, como profesor, quiero que realices en este repositorio la entrega de l
 ![](imgs/check_fork.png)
 ![](imgs/listado_forks.png)
 
-
+## IMPORTANTE: 
+# Para finalizar, debes realizar la entrega de la tarea en Moodle. Para ello, copia en la tarea de Moodle la url de este repositorio, como puedes leer en las instrucciones de entrega de la misma.#
 
 ## Flujo de trabajo para entrega de prácticas individuales
 El flujo de trabajo anterior es adecuado para la entrega de tareas individuales. Este es el resumen de todos los pasos:
