@@ -29,7 +29,7 @@ Yo ahora, como profesor, quiero que realices en este repositorio la entrega de l
 
 
 
-## Metodologías de trabajo para prácticas individuales
+## Flujo de trabajo para entrega de prácticas individuales
 Este flujo de trabajo es adecuado para la entrega de tareas individuales. Este es el resumen de todos los pasos:
 - O/a docente crea del repositorio con el código base de la tarea
 - Incluye un archivo README con enunciado o descripción de la tarea
@@ -43,18 +43,16 @@ Este flujo de trabajo es adecuado para la entrega de tareas individuales. Este e
 - El profesor revisa la pull request y opcionalmente hace comentarios sobre la misma
 - Al finalizar, el profesor cierra la pull request
 
-Existen dos posibilidades: utilizando exclusivamente GitHub mediante forks y pull requests o utilizando GitHub Classroom. En ambos casos es recomendable crear una organización para cada clase que impartamos. La organización puede darse de alta para solicitar el descuento educativo tal como vimos en la sesión 3. Dentro de la organización se crearán los repositorios para cada tarea.
+### Ventajas
 
+- Sencillez
+- Flujo de trabajo parecido al funcionamiento normal de GitHub
 
-Ventajas
+### Desventajas
 
-    Sencillez
-    Flujo de trabajo parecido al funcionamiento normal de GitHub
+- Los repositorios de las tareas de los alumnos son públicos
+- Es difícil determinar el nombre del alumno a partir del usuario de GitHub
+- Cada alumno es dueño de su repositorio
+- En caso de tener integración con Travis, cada alumno deberá activarla en su repositorio
 
-Desventajas
-
-    Los repositorios de las tareas de los alumnos son públicos
-    Es difícil determinar el nombre del alumno a partir del usuario de GitHub
-    Cada alumno es dueño de su repositorio
-    En caso de tener integración con Travis, cada alumno deberá activarla en su repositorio
-
+Otra opción sería el uso de organizaciones y classrooms
