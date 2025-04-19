@@ -45,25 +45,6 @@ GitHub ofrece dos mecanismos básicos para la colaboración en un determinado re
 
 - Permisos de colaboradores - Se pueden agregar colaboradores a un repositorio para que puedan realizar cambios. Este método es útil si tenemos clara la identidad de todas las personas que van a colaborar en el repositorio.
 - Forks y Pull Requests: Mecanismo utilizado por defecto. Permite que personas que no tienen acceso de escritura al repositorio puedan hacer una copia del mismo en su propia cuenta y enviar los cambios para que la persona dueña del repositorio original decida si quiere o no integrarlos. Muy útil en proyectos de Código Abierto, donde las personas colaboradoras no se conocen entre sí.
-   
 
 [Tarea 2: Forks y pull requests](Traballo_aulas_repos.md)
-
-- Haz un fork del repositorio localizado en la siguiente url: https://github.com/curso-github-cefire/sesion3-practica. A partir de este momento todas las tareas que se indican se deben realizar en tu repositorio (el que has clonado mediante el fork).
-- Realiza un primer commit para poner tu nombre y apellidos en el fichero README.md
-- Crea 3 issues con los siguientes títulos. Si no ves la pestaña de issues, actívala desde los ajustes (settings) del repositorio.
-            Añadir 3 libros
-            Añadir 3 películas
-            Añadir 3 discos
-- Crea una milestone denominada Tareas sesión 3-2 que contenga los 3 issues creados.
-- Modifica los ficheros correspondientes y realiza 3 commits para realizar cada una de las tareas que se indican en los issues. El mensaje del commit debe hacer que se cierren los issues correspondientes de manera automática.
-- Haz una captura de pantalla de los comandos que has utilizado para hacer los commits y subir los cambios a GitHub.
-- Incluye las capturas de pantalla en el repositorio dentro de la carpeta capturas. Añádelas también al repositorio de manera que queden guardadas en tu repositorio en GitHub.
-- Realiza una pull request indicando en el mensaje que has completado la tarea.
-
-
-![Tarea Website](Website.md)
-
-Tareas basadas en repositorios para trabajo en clase 
-![Utilidades dos repo para traballar nas aulas](Traballo_aulas_repos.md)   
 
