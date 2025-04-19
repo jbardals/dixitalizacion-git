@@ -19,7 +19,7 @@ Yo ahora, como profesor, quiero que realices en este repositorio la entrega de l
 - Realiza una pull request indicando en el mensaje que has completado la tarea.
   ![](imgs/create_pull_request.png)
 - A mí me llega un aviso de entrega como éste:
- ![](chegada_pull_request.png)
+ ![](imgs/chegada_pull_request.png)
 
 
 ## Entrega
