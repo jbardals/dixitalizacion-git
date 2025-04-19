@@ -11,7 +11,7 @@ Comparado con la gestión tradicional de tareas (creación de un fichero comprim
 
 En los repositorios de GitHub se pueden subir y editar ficheros de texto plano o en formato de lenguajes de marcas como [Markdown](https://markdownlivepreview.com/). , que se pueden enriquecer con referencias a otros contenidos como imágenes, enlaces a recursos internos (otros ficheros del repositorio) o externos (direcciones url). 
 
-Tarea 0 -> crear un cuenta de Github, usar cuenta de google o crear una cuenta de google para github. poner el usuario que quieras, una cuenta real y la contraseña que quieras.
+Para poder usar Github, tienes que registrarte (creando una cuenta de Github)[https://docs.github.com/es/get-started/start-your-journey/creating-an-account-on-github] con el usuario y la contraseña que quieras, y proporcionando una cuenta de correo real (por ejemplo, una cuenta de google, puedes crear las que quieras).
 
 En Github lod contenidos se organizan en Repositorios. Un repositorio es una elemento de agrupación de elementos relacionados, como archivos, imágenes, vídeos o incluso otras carpetas. Los repositorios incluyen por defecto un archivo LÉAME o README con información sobre el proyecto. Los archivos LÉAME están escritos en Markdown. 
 
