@@ -37,5 +37,5 @@ y subimos el fichero Entrega1
 - 
 - 
 
-Continumaos con la parte 2 de la [tarea1](Tarea1.md)
+Continuamos con la parte 2 de la [tarea1](Tarea1.md)
 
