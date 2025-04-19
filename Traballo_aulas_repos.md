@@ -27,12 +27,9 @@ Yo ahora, como profesor, quiero que realices en este repositorio la entrega de l
 ![](imgs/check_fork.png)
 ![](imgs/listado_forks.png)
 
-## Entrega
-
-crearse el fork del mio, añadir un fichero url_GithubPages y hacer push
 
 
-Metodologías de trabajo para prácticas individuales
+## Metodologías de trabajo para prácticas individuales
 Este flujo de trabajo es adecuado para la entrega de tareas individuales. Este es el resumen de todos los pasos:
 - O/a docente crea del repositorio con el código base de la tarea
 - Incluye un archivo README con enunciado o descripción de la tarea
