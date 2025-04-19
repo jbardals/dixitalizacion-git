@@ -27,7 +27,7 @@ Para crear un sitio web para tu cuenta de usuario de Github, en la sección Sett
 
 Comprueba que puedes acceder vía web al sitio publicado en la url https://TUNOMBREDEUSUARIO.github.io/nombrerepositorio.
 
-## Entrega1.1
+## Entrega 1.1
 - Realiza una captura de la pantalla de la configuración de tu repositorio en Settings -> Pages mostrando la url del website y la rama de desplieue.
 ![](imgs/setting_pages.png)
 - Guarda la imagen capturada en un fichero de imagen con el nombre Entrega11
