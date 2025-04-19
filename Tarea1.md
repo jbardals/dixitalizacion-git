@@ -7,6 +7,7 @@ Acciones a realizar en la tarea:
 - Abre y fusiona una solicitud de cambios.
 
 ## Parte 1:
+- Accede a Github con tu cuenta de usuario.
 - Crea un repositorio "soy_TUNOMBRE" que tenga un fichero README. El repositorio será público. Para crear un repositorio, seguir los pasos indicados en la url https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site:
 - Crea una rama nueva de nombre  "contenido-web". Sigue los pasos del aptdo Publicacion desde una rama en https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch
 - Cámbiate a esa rama y crea un fichero index.html con el siguiente contenido:
