@@ -30,7 +30,7 @@ Yo ahora, como profesor, quiero que realices en este repositorio la entrega de l
 
 
 ## Flujo de trabajo para entrega de prácticas individuales
-Este flujo de trabajo es adecuado para la entrega de tareas individuales. Este es el resumen de todos los pasos:
+El flujo de trabajo anterior es adecuado para la entrega de tareas individuales. Este es el resumen de todos los pasos:
 - O/a docente crea del repositorio con el código base de la tarea
 - Incluye un archivo README con enunciado o descripción de la tarea
 - Cada alumno realiza un fork del repositorio
